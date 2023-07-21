@@ -12,3 +12,10 @@ Repository ini Berisi pengalaman saya belajar di Dicoding Academy
 
 *Belajar kelas dasar mengenal git dengan Github. (Progres 39%)*
 * Pengulangan materi / studycase cara membuat ulang repository
+
+**26 july 2023**.
+
+*belajar kelas dasar  mengenal git dengna Github. (Progres 100%)*
+* Belajar mengenai Git branches.
+* Belajar Github untuk berkolabirasi dengan tim.
+* Belajar Github sebagai Portofolio
